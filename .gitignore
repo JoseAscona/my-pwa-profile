@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+#<section className="project-item">
+#<img src={underconstruction} alt="Under Construction"/>
+#<h3>Project Name</h3>
+#<p>Summary or description of the project and/or your role in it. Add as many paragraphs as you need.</p>
+#<a className="btn" href="https://www.linkedin.com/in/jos%C3%A9-luis-ascona/" target="_blank" rel="noreferrer">View project / case study</a>
+#</section>

@@ -14,7 +14,7 @@ function Projects() {
                         <p>This project is both an online resume with the Projects sections acting as a portfolio. It was build with <strong>Create React App</strong> with the <strong>PWA template</strong>.
                             Is installable on Chrome , Android and IOs devices. It uses components that render all the different sections within the website.
                         </p>
-                        <a className="btn" href="https://www.linkedin.com/in/jos%C3%A9-luis-ascona/" target="_blank" rel="noreferrer">View project on Github</a>
+                        <a className="btn" href="https://github.com/JoseAscona/my-pwa-profile" target="_blank" rel="noreferrer">View project on Github</a>
                     </section>
                 </div>
         </section>    

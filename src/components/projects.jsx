@@ -6,7 +6,7 @@ function Projects() {
         <section className="projects">
                 <div className="content-wrap divider"> 
                     <h2>Featured Projects</h2>
-                    <h3>View selected projects below. More information can be found at <a href="https://www.linkedin.com/in/jos%C3%A9-luis-ascona/" target="_blank" rel="noreferrer">My LinkedIn Profile</a>.</h3>
+                    <h3>View selected projects below. More information can be found at <a href="https://github.com/JoseAscona" target="_blank" rel="noreferrer">My Github profile</a>.</h3>
 
                     <section className="project-item">
                         <img src={resume} alt="Resume Icon"/>

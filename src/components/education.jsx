@@ -19,6 +19,12 @@ function Education() {
                     <p>(2001 - 2004)</p>
                 </section>
 
+                <section>
+                    <h3>Slack Certified Admin</h3>
+                    <p>For organizations of all sizes.</p>
+                    <p>(2022-2024)</p>
+                </section>
+
             </div>
       </section>
     )
